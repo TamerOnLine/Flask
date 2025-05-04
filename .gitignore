@@ -13,11 +13,6 @@ env/
 # Environment files
 .env
 
-# Local databases
-instance/*.db
-
-# Uploaded images
-
 
 # Log files
 *.log
